@@ -1,0 +1,9 @@
+transformers
+torch
+streamlit
+pandas
+pdfplumber
+fuzzywuzzy
+python-levenshtein
+spacy
+scikit-learn
